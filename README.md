@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：效果验证
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 049 篇 - 百家乐Ai预测分析工具：分组评估揭示总体均值遮住的问题](https://github.com/TGmszrcsz/baccarat-ai-049) ｜ [下一篇：第 051 篇 - 百家乐Ai预测分析工具：截图清晰度决定哪些字段能够被读取](https://github.com/TGmszrcsz/baccarat-ai-051)
+
+<!-- article-chain:end -->
+
 报告有结论，却缺少重跑所需的配置和数据版本。本篇围绕“把可复现实验写成别人能执行的步骤”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
